@@ -1,0 +1,81 @@
+Test file
+
+Using python open circular_dna.py
+
+Test 1
+
+Input↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
+Name of Circular-DNA = 664
+
+Micro-RNA sequence (IN CAPITAL LETTERS) = ACAUCCGACCCCUAUUUACUUAU
+
+Length of all DNA sequence (>36) (suggest=75) = 63
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+
+Than you will get↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
+===================================================================================
+
+                                  Probe sequence
+
+                       CAACCACACTGGCAAGAGGCAAAAAAAAAAAAAAA
+
+ ===================================================================================
+
+                           Circular DNA sequence(63)
+
+       GTGGTTGTCTTCT      +  TGTAGGCTGGGGATAAATGAATA   +  _________________
+   Probe_binding_site(13) +  MicroRNA_binding_site(23) +  Unctionless_dna_sequence(27)
+
+ ===================================================================================
+ 
+
+SUCCESS
+
+Total 26555 sequence 
+
+Output in 664_circular_dna.txt
+
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+
+
+Test 2
+
+Input↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
+Name of Circular-DNA = 33
+
+Micro-RNA sequence (IN CAPITAL LETTERS) = CAGUGCCUCGGCAGUGCAGCCC
+
+Length of all DNA sequence (>35) (suggest=75) = 63
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+
+Than you will get↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
+===================================================================================
+
+                                  Probe sequence
+
+                       CAACCACACTGGCAAGAGGCAAAAAAAAAAAAAAA
+
+ ===================================================================================
+
+                           Circular DNA sequence(63)
+
+       GTGGTTGTCTTCT      +  GTCACGGAGCCGTCACGTCGGG   +  _________________
+   Probe_binding_site(13) +  MicroRNA_binding_site(22) +  Unctionless_dna_sequence(28)
+
+ ===================================================================================
+ 
+
+SUCCESS
+
+Total 3811 sequence 
+
+Output in 33_circular_dna.txt
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
