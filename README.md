@@ -7,7 +7,12 @@ This software is built for GotCha's mechanism based on Rolling Circle Amplificat
 With user input of target micro-RNA sequence for capture, Circular DNA Design is able to synthesise different permutations of bases to form circular DNA sequences suitable for GotCha with the help of rules we established in circular DNA design. 
 With various rules established, we successfully avoid formation of major loops in circular DNA sequences while maximising thermodynamic stability. 
 
+## Installation
 
+You can run Circular DNA Design with the following command.
+```
+python circular_dna.py
+```
 ## Code
 
 
